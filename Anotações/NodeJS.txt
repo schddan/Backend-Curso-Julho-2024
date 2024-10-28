@@ -1,0 +1,15 @@
+O que é?
+ -Ambiente de execução de JavaScript (JS tinha sido feito para rodar em navegador inicialmente)
+
+Funcionamento
+ -Modelo assíncrono: funções que ficam rodando enquanto outras estão rodando
+ -Orientado a eventos
+ -Event Loop
+ -CallBackStack, CallBackQueue: Eventos armazenados em filas
+ -Node Package Manager (NPM): gerencia os pacotes do Node, escritos por outros usuários
+
+Iniciando Ambiente
+ $npm init -y
+
+Configurando o ambiente após clonar do GitHub
+ $npm install

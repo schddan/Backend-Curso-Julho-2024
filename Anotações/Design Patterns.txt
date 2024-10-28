@@ -1,0 +1,5 @@
+Padrão MVC (Model - View - Control):
+ -Cria três arquivos, no mínimo:
+  -db.js (a conexão com a database)
+  -rotas.js (onde ficam as rotas)
+  -controlador.js (onde ficam as regras de negócio)

@@ -1,0 +1,7 @@
+O que é?
+ -Ferramenta para criação de API
+ -Minimalista e flexível
+ -Roteamento simples e direto
+
+Instalando
+ $npm install express

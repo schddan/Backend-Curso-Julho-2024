@@ -1,0 +1,11 @@
+O que é?
+ -Configura variáveis de ambiente, é lá em que é colocado as senhas do BD, por exemplo. É importantíssima para a segurança. Variáveis importates não podem estar no código. 
+
+Funcionamento:
+ -Cria o arquivo chamado .env (só .env mesmo)
+ -Coloca as variáveis lá
+ -Coloca no gitignore para que os valores não sejam públicos
+ -É bom criar o .env_example, que vai dar um modelo de como criar o .env
+
+Instalando:
+ $npm install dotenv

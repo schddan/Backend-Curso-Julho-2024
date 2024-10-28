@@ -1,0 +1,5 @@
+O que é?
+ -Biblioteca para lidar com postgres
+
+Instalando
+ $npm install pg
